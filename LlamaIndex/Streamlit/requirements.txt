@@ -1,0 +1,5 @@
+firebase_admin
+streamlit
+streamlit_option_menu
+openai 
+llama_index
